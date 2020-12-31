@@ -10,10 +10,3 @@
 - 😄 Pronouns: She/her:raising_hand:
 - :dizzy:Fun fact: Explore by learning.:sparkles:
 
-###### Connect me:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[instagram].svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[linkedin].svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[twitter].svg" />
-
-###### Tools and Languages:
-<https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png>

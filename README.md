@@ -9,4 +9,3 @@
 - :two_women_holding_hands: I’m looking for help with Open Source Contribution.:two_men_holding_hands:
 - 😄 Pronouns: She/her:raising_hand:
 - :dizzy:Fun fact: Explore by learning.:sparkles:
-
